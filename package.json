@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.7",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-extract": "^2.1.0",
     "sass-extract-js": "^0.4.0",
     "sass-extract-loader": "^1.1.0"
