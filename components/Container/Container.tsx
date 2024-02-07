@@ -55,7 +55,7 @@ const Container = (props) => {
         <FooterText>
           <FooterLink target="_blank" href="#">LinkedIn</FooterLink>
           <span> | </span>
-          <FooterLink target="_blank" href="https://github.com/hmujib">Github</FooterLink>
+          <FooterLink target="_blank" href="#">Github</FooterLink>
         </FooterText>
       </Footer>
     </Main>
