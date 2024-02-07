@@ -51,7 +51,7 @@ const Container = (props) => {
         {props.children}
       </ContentContainer>
       <Footer>
-        <FooterText>Humza Mujib</FooterText>
+        <FooterText>HKM</FooterText>
         <FooterText>
           <FooterLink target="_blank" href="https://www.linkedin.com/in/humza-mujib-b14361165/">LinkedIn</FooterLink>
           <span> | </span>
