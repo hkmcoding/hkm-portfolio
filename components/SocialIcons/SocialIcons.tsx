@@ -25,8 +25,8 @@ const SocialIcon = styled.img`
 const SocialIcons = () => {
   return (
     <SocialIconContainer>
-      <SocialIconLink href='https://www.linkedin.com/in/humza-mujib-b14361165/' target='_blank'><SocialIcon src='/linkedin-icon.png' /></SocialIconLink>
-      <SocialIconLink href='https://github.com/hmujib' target='_blank'><SocialIcon src='/github-icon.png' /></SocialIconLink>
+      <SocialIconLink href='#' target='_blank'><SocialIcon src='/linkedin-icon.png' /></SocialIconLink>
+      <SocialIconLink href='#' target='_blank'><SocialIcon src='/github-icon.png' /></SocialIconLink>
 {/*       <SocialIconLink data-tip="Grab a resume!" href='#' target='_blank'>
         <ReactTooltip className="customTheme" effect="solid" place="bottom">
           <span>Grab a resume!</span>
