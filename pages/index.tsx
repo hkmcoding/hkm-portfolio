@@ -9,8 +9,8 @@ const Index = () => {
     <>
       <Head>
         <title>HKM | Portfolio</title>
-        <meta name="description" content="Humza Mujib is a Frontend Developer in the greater NY area. Visit his portfolio to see some of the projects he has worked on!" />
-        <meta property="og:title" content="Humza Mujib | Portfolio"/>
+        <meta name="description" content="HKM Mujib is a Frontend Developer in the greater NY area. Visit his portfolio to see some of the projects he has worked on!" />
+        <meta property="og:title" content="HKM Mujib | Portfolio"/>
         <meta property="og:url" content="https://hmujib.com"/>
         <meta property="og:image" content="https://hmujib.com/social-share.png"/>
         <meta property="og:description" content="HKM is a Frontend Developer in the greater NY area. Visit his portfolio to see some of the projects he has worked on!"/>
