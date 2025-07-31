@@ -53,9 +53,9 @@ const Container = (props) => {
       <Footer>
         <FooterText>HKM</FooterText>
         <FooterText>
-          <FooterLink target="_blank" href="#">LinkedIn</FooterLink>
+          <FooterLink target="_blank" href="https://www.linkedin.com/in/hmujib/">LinkedIn</FooterLink>
           <span> | </span>
-          <FooterLink target="_blank" href="#">Github</FooterLink>
+          <FooterLink target="_blank" href="https://github.com/hkmcoding">Github</FooterLink>
         </FooterText>
       </Footer>
     </Main>
